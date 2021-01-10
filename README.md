@@ -1,0 +1,1 @@
+# A simple implementation of express server using Mysql and Typescript
